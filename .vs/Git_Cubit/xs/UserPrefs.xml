@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2F5AF5DD-F509-B10F-DF50-CC8008667DAB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/AdsManager.cs">
+    <Files>
+      <File FileName="Assets/Script/AdsManager.cs" Line="23" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
